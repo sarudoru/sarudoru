@@ -13,36 +13,19 @@
 
 <br>
 
-<table>
-  <tr>
-    <td width="62%" valign="top">
-      <p>I build real-time AI systems for characters that can think, speak, move, and emote without feeling like a frozen chatbot taped to a 3D model.</p>
+
+<p>I build real-time AI systems for characters that can think, speak, move, and emote without feeling like a frozen chatbot taped to a 3D model.</p>
       <p>Right now I am shipping character infrastructure at <b>Lapwing</b>, finishing a <b>CS + AI honors thesis at Colby</b>, and staying mildly unreasonable about motion, expression, latency, and browser-side performance.</p>
       <p>My favorite stack is the one where language turns into visible behavior: dialogue, gesture, facial animation, lip-sync, personality, timing, all the little things that make a virtual character feel present instead of rendered.</p>
-  </tr>
-</table>
 
-<p align="center">
-  <img src="./assets/ribbon-divider.svg" alt="" width="100%" />
-</p>
-
-<table>
-  <tr>
-    <td align="center"><sub><b>motion generation</b></sub></td>
-    <td align="center"><sub><b>browser graphics</b></sub></td>
-    <td align="center"><sub><b>low-latency systems</b></sub></td>
-    <td align="center"><sub><b>multimodal data</b></sub></td>
-  </tr>
-</table>
-
-## current loop
+## Currently
 
 - building **Lapwing**, a real-time interactive character platform
 - researching **conversational motion generation** for virtual characters
 - wiring language models into animation systems that actually show their work on the body
 - keeping the browser fast enough that the illusion survives contact with reality
 
-## working taste
+## I use
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,react,next,threejs,python,fastapi,pytorch,redis,postgres,cloudflare,vercel,docker,git&perline=7" alt="tools" />

@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/sarudoru-hero.svg" alt="Sardor Nodirov / sarudoru: language, motion, expression" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://nodirov.com"><img src="https://img.shields.io/badge/nodirov.com-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="website" /></a>
   <a href="https://lapwing.live"><img src="https://img.shields.io/badge/lapwing.live-f06a7b?style=for-the-badge&logo=threedotjs&logoColor=white" alt="lapwing" /></a>
   <img src="https://img.shields.io/badge/Colby%20CS%20%2B%20AI-2026-2f6f5e?style=for-the-badge" alt="Colby CS AI 2026" />
@@ -73,8 +69,4 @@
 
 <p align="center">
   <img src="./assets/terminal-strip.svg" alt="terminal strip" width="100%" />
-</p>
-
-<p align="center">
-  <img src="./assets/closing-panel.svg" alt="anime girls watching a terminal build pass" width="100%" />
 </p>

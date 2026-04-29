@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://nodirov.com"><img src="https://img.shields.io/badge/nodirov.com-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="website" /></a>
   <a href="https://lapwing.live"><img src="https://img.shields.io/badge/lapwing.live-f06a7b?style=for-the-badge&logo=threedotjs&logoColor=white" alt="lapwing" /></a>
-  <a href="https://github.com/sarudoru"><img src="https://img.shields.io/github/followers/sarudoru?style=for-the-badge&label=github&color=7c3aed" alt="github followers" /></a>
   <img src="https://img.shields.io/badge/Colby%20CS%20%2B%20AI-2026-2f6f5e?style=for-the-badge" alt="Colby CS AI 2026" />
 </p>
 

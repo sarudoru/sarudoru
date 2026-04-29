@@ -21,16 +21,9 @@
 <table>
   <tr>
     <td width="62%" valign="top">
-
-      <h3><code>whoami</code></h3>
       <p>I build real-time AI systems for characters that can think, speak, move, and emote without feeling like a frozen chatbot taped to a 3D model.</p>
       <p>Right now I am shipping character infrastructure at <b>Lapwing</b>, finishing a <b>CS + AI honors thesis at Colby</b>, and staying mildly unreasonable about motion, expression, latency, and browser-side performance.</p>
       <p>My favorite stack is the one where language turns into visible behavior: dialogue, gesture, facial animation, lip-sync, personality, timing, all the little things that make a virtual character feel present instead of rendered.</p>
-
-    </td>
-    <td width="38%" valign="top">
-      <img src="./assets/console-girl.svg" alt="anime console operator" width="100%" />
-    </td>
   </tr>
 </table>
 
@@ -40,12 +33,6 @@
 
 <table>
   <tr>
-    <td align="center" width="25%"><img src="./assets/motion-maid.svg" alt="motion generation anime girl" width="100%" /></td>
-    <td align="center" width="25%"><img src="./assets/shader-witch.svg" alt="shader witch anime girl" width="100%" /></td>
-    <td align="center" width="25%"><img src="./assets/latency-angel.svg" alt="latency angel anime girl" width="100%" /></td>
-    <td align="center" width="25%"><img src="./assets/dataset-idol.svg" alt="dataset idol anime girl" width="100%" /></td>
-  </tr>
-  <tr>
     <td align="center"><sub><b>motion generation</b></sub></td>
     <td align="center"><sub><b>browser graphics</b></sub></td>
     <td align="center"><sub><b>low-latency systems</b></sub></td>
@@ -54,12 +41,6 @@
 </table>
 
 ## current loop
-
-```txt
-prompt -> intent -> behavior plan -> speech -> motion -> face -> VRM runtime
-          |                                                     ^
-          +---------------- timing / emotion / memory ----------+
-```
 
 - building **Lapwing**, a real-time interactive character platform
 - researching **conversational motion generation** for virtual characters
@@ -95,58 +76,6 @@ prompt -> intent -> behavior plan -> speech -> motion -> face -> VRM runtime
   <img src="./assets/terminal-strip.svg" alt="terminal strip" width="100%" />
 </p>
 
-## stats, because GitHub lets us put little machines in markdown
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sarudoru&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true&custom_title=commit%20weather" alt="github stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarudoru&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sarudoru&theme=tokyonight&hide_border=true&border_radius=8" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarudoru&theme=tokyo-night&hide_border=true&radius=8&area=true&custom_title=activity%20signal" alt="activity graph" width="96%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarudoru&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="profile trophies" />
-</p>
-
-## small map
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-      <pre><code>/characters
-  /motion
-  /speech
-  /face
-  /memory
-  /timing</code></pre>
-
-    </td>
-    <td width="50%" valign="top">
-
-      <pre><code>/systems
-  /async
-  /render
-  /deploy
-  /observe
-  /ship</code></pre>
-
-    </td>
-  </tr>
-</table>
-
 <p align="center">
   <img src="./assets/closing-panel.svg" alt="anime girls watching a terminal build pass" width="100%" />
-</p>
-
-<p align="center">
-  <sub>
-    If something here is blinking, moving, counting, or graphing itself, good. Static profiles are a little suspicious.
-  </sub>
 </p>

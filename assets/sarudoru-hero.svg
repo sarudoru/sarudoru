@@ -1,0 +1,74 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">sarudoru profile hero</title>
+  <desc id="desc">A graphic banner with anime operators, terminal windows, stars, and the words language, motion, expression.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#110d1e"/>
+      <stop offset="0.45" stop-color="#26133e"/>
+      <stop offset="1" stop-color="#0f2133"/>
+    </linearGradient>
+    <linearGradient id="pink" x1="170" y1="49" x2="1000" y2="302" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff8ab3"/>
+      <stop offset="1" stop-color="#8ad7ff"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#ffffff" stroke-opacity=".06"/>
+    </pattern>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <path d="M44 288C206 176 287 307 431 212C585 110 690 217 834 112C968 14 1072 72 1152 142" stroke="url(#pink)" stroke-width="3" stroke-dasharray="9 12" opacity=".75"/>
+  <circle cx="100" cy="76" r="50" fill="#ff8ab3" opacity=".15"/>
+  <circle cx="1037" cy="258" r="72" fill="#8ad7ff" opacity=".14"/>
+  <circle cx="624" cy="74" r="8" fill="#fff1a8"/>
+  <circle cx="1038" cy="94" r="5" fill="#ff8ab3"/>
+  <circle cx="220" cy="288" r="5" fill="#8ad7ff"/>
+  <g transform="translate(56 54)">
+    <rect width="338" height="236" rx="18" fill="#080713" stroke="#ffffff" stroke-opacity=".16"/>
+    <rect x="16" y="16" width="306" height="36" rx="10" fill="#151225"/>
+    <circle cx="38" cy="34" r="6" fill="#ff6b8a"/>
+    <circle cx="60" cy="34" r="6" fill="#ffd166"/>
+    <circle cx="82" cy="34" r="6" fill="#57e39d"/>
+    <text x="26" y="86" fill="#8ad7ff" font-family="JetBrains Mono, Menlo, monospace" font-size="16">$ cargo run --release</text>
+    <text x="26" y="120" fill="#f8e7ff" font-family="JetBrains Mono, Menlo, monospace" font-size="15">language -&gt; motion</text>
+    <text x="26" y="150" fill="#f8e7ff" font-family="JetBrains Mono, Menlo, monospace" font-size="15">emotion  -&gt; face</text>
+    <text x="26" y="180" fill="#f8e7ff" font-family="JetBrains Mono, Menlo, monospace" font-size="15">timing   -&gt; presence</text>
+    <rect x="26" y="203" width="246" height="10" rx="5" fill="#211a38"/>
+    <rect x="26" y="203" width="186" height="10" rx="5" fill="#ff8ab3"/>
+  </g>
+  <g transform="translate(417 59)">
+    <text x="0" y="56" fill="#fff7ff" font-family="Georgia, serif" font-size="54" font-weight="700">sarudoru</text>
+    <text x="2" y="95" fill="#ffb8cf" font-family="JetBrains Mono, Menlo, monospace" font-size="17">Sardor Nodirov</text>
+    <text x="2" y="136" fill="#e9ddff" font-family="JetBrains Mono, Menlo, monospace" font-size="20">real-time AI characters</text>
+    <text x="2" y="168" fill="#b9f0ff" font-family="JetBrains Mono, Menlo, monospace" font-size="20">language / motion / expression</text>
+    <rect x="2" y="198" width="130" height="34" rx="17" fill="#ff8ab3" fill-opacity=".18" stroke="#ff8ab3" stroke-opacity=".55"/>
+    <text x="24" y="221" fill="#ffeaf3" font-family="JetBrains Mono, Menlo, monospace" font-size="14">Lapwing</text>
+    <rect x="146" y="198" width="118" height="34" rx="17" fill="#8ad7ff" fill-opacity=".15" stroke="#8ad7ff" stroke-opacity=".55"/>
+    <text x="168" y="221" fill="#e9fbff" font-family="JetBrains Mono, Menlo, monospace" font-size="14">Colby AI</text>
+    <rect x="278" y="198" width="150" height="34" rx="17" fill="#fff1a8" fill-opacity=".12" stroke="#fff1a8" stroke-opacity=".46"/>
+    <text x="298" y="221" fill="#fff8cb" font-family="JetBrains Mono, Menlo, monospace" font-size="14">VRM runtime</text>
+  </g>
+  <g transform="translate(879 43)" filter="url(#glow)">
+    <path d="M111 50C145 47 178 70 182 111C186 154 156 188 115 190C69 192 38 164 40 121C42 83 75 53 111 50Z" fill="#2a173d"/>
+    <path d="M76 126C51 130 35 151 34 181C33 212 52 242 86 250C127 260 169 236 176 197C181 168 169 137 140 128C123 122 97 123 76 126Z" fill="#ffd7e7"/>
+    <path d="M67 105C63 69 86 39 122 36C161 33 188 58 190 94C192 132 168 163 129 167C93 171 71 141 67 105Z" fill="#ffd1e1"/>
+    <path d="M58 106C64 57 95 30 133 29C165 28 197 51 203 91C185 79 165 75 142 77C111 79 84 91 58 106Z" fill="#6f3ed4"/>
+    <path d="M79 103C93 88 119 82 144 83C163 84 181 91 194 104C190 72 163 49 129 50C96 52 73 74 79 103Z" fill="#191026"/>
+    <circle cx="107" cy="123" r="7" fill="#26133e"/>
+    <circle cx="157" cy="121" r="7" fill="#26133e"/>
+    <circle cx="109" cy="120" r="2" fill="#fff"/>
+    <circle cx="159" cy="118" r="2" fill="#fff"/>
+    <path d="M123 145C134 153 148 152 159 144" stroke="#d8527d" stroke-width="4" stroke-linecap="round"/>
+    <path d="M67 177C42 190 28 220 24 261H205C203 222 188 193 162 178C138 193 94 193 67 177Z" fill="#241533"/>
+    <path d="M70 182L112 242L164 181" stroke="#8ad7ff" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="214" cy="62" r="7" fill="#fff1a8"/>
+    <path d="M217 32L221 45L234 49L221 53L217 66L213 53L200 49L213 45L217 32Z" fill="#ff8ab3"/>
+  </g>
+</svg>

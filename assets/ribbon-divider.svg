@@ -1,0 +1,14 @@
+<svg width="1200" height="92" viewBox="0 0 1200 92" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="decorative neon divider">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff8ab3"/>
+      <stop offset=".5" stop-color="#8ad7ff"/>
+      <stop offset="1" stop-color="#fff1a8"/>
+    </linearGradient>
+  </defs>
+  <rect x="20" y="22" width="1160" height="48" rx="24" fill="#120d1f"/>
+  <path d="M52 46H1148" stroke="url(#line)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="5 14"/>
+  <text x="600" y="53" text-anchor="middle" fill="#fff7ff" font-family="JetBrains Mono, Menlo, monospace" font-size="14">motion units / terminal girls / low-latency spells / browser signals</text>
+  <path d="M72 34L76 42L84 46L76 50L72 58L68 50L60 46L68 42L72 34Z" fill="#ff8ab3"/>
+  <path d="M1128 34L1132 42L1140 46L1132 50L1128 58L1124 50L1116 46L1124 42L1128 34Z" fill="#8ad7ff"/>
+</svg>

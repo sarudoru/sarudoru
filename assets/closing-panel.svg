@@ -1,0 +1,36 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="anime girls watching a terminal build pass">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0d0b16"/>
+      <stop offset=".55" stop-color="#211331"/>
+      <stop offset="1" stop-color="#102032"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="26" fill="url(#panel)"/>
+  <rect x="338" y="42" width="524" height="184" rx="18" fill="#080713" stroke="#ffffff" stroke-opacity=".13"/>
+  <circle cx="366" cy="70" r="6" fill="#ff6b8a"/>
+  <circle cx="388" cy="70" r="6" fill="#ffd166"/>
+  <circle cx="410" cy="70" r="6" fill="#57e39d"/>
+  <text x="368" y="116" fill="#8ad7ff" font-family="JetBrains Mono, Menlo, monospace" font-size="18">$ git status</text>
+  <text x="368" y="154" fill="#f8e7ff" font-family="JetBrains Mono, Menlo, monospace" font-size="16">characters: alive</text>
+  <text x="368" y="184" fill="#f8e7ff" font-family="JetBrains Mono, Menlo, monospace" font-size="16">runtime: dramatic but stable</text>
+  <text x="368" y="214" fill="#57e39d" font-family="JetBrains Mono, Menlo, monospace" font-size="16">ship it.</text>
+  <g transform="translate(108 72)">
+    <circle cx="88" cy="62" r="50" fill="#ffd7e7"/>
+    <path d="M39 67C47 25 76 5 109 8C139 11 161 34 166 72C132 51 77 49 39 67Z" fill="#7c3aed"/>
+    <circle cx="69" cy="72" r="6" fill="#21142f"/>
+    <circle cx="110" cy="72" r="6" fill="#21142f"/>
+    <path d="M77 96C88 103 101 103 111 96" stroke="#d8527d" stroke-width="4" stroke-linecap="round"/>
+    <path d="M22 151C43 121 70 111 91 111C119 111 146 126 158 155C140 196 36 196 22 151Z" fill="#171224"/>
+  </g>
+  <g transform="translate(930 70)">
+    <circle cx="88" cy="62" r="50" fill="#ffe0eb"/>
+    <path d="M38 68C45 27 75 5 107 8C139 11 161 36 165 73C132 54 76 50 38 68Z" fill="#f06a7b"/>
+    <circle cx="69" cy="73" r="6" fill="#21142f"/>
+    <circle cx="110" cy="73" r="6" fill="#21142f"/>
+    <path d="M77 97C87 104 101 104 111 97" stroke="#d8527d" stroke-width="4" stroke-linecap="round"/>
+    <path d="M22 153C43 122 70 112 91 112C119 112 146 128 158 157C140 198 36 198 22 153Z" fill="#171224"/>
+  </g>
+  <path d="M78 246H1122" stroke="#ffffff" stroke-opacity=".1"/>
+  <text x="600" y="270" text-anchor="middle" fill="#fff7ff" font-family="JetBrains Mono, Menlo, monospace" font-size="14">thanks for stopping by. the counter saw you.</text>
+</svg>

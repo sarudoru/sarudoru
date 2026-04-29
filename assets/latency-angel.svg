@@ -1,0 +1,15 @@
+<svg width="280" height="320" viewBox="0 0 280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="latency angel anime girl">
+  <rect width="280" height="320" rx="18" fill="#101522"/>
+  <path d="M45 174C23 146 25 110 52 95C82 78 112 103 121 143C86 132 62 142 45 174Z" fill="#8ad7ff" fill-opacity=".32" stroke="#8ad7ff" stroke-width="3"/>
+  <path d="M235 174C257 146 255 110 228 95C198 78 168 103 159 143C194 132 218 142 235 174Z" fill="#8ad7ff" fill-opacity=".32" stroke="#8ad7ff" stroke-width="3"/>
+  <ellipse cx="140" cy="55" rx="46" ry="11" stroke="#fff1a8" stroke-width="5"/>
+  <circle cx="140" cy="106" r="54" fill="#ffe0eb"/>
+  <path d="M84 108C90 67 120 45 153 48C185 51 207 77 210 115C175 96 119 92 84 108Z" fill="#ff8ab3"/>
+  <circle cx="120" cy="116" r="6" fill="#1d2b3d"/>
+  <circle cx="162" cy="116" r="6" fill="#1d2b3d"/>
+  <path d="M127 140C137 147 151 147 161 140" stroke="#d8527d" stroke-width="4" stroke-linecap="round"/>
+  <path d="M76 197C97 166 123 155 144 155C172 155 199 171 211 202C191 244 88 244 76 197Z" fill="#21142f"/>
+  <rect x="76" y="239" width="128" height="18" rx="9" fill="#ffffff" fill-opacity=".09"/>
+  <rect x="76" y="239" width="94" height="18" rx="9" fill="#57e39d"/>
+  <text x="140" y="292" text-anchor="middle" fill="#fff7ff" font-family="JetBrains Mono, Menlo, monospace" font-size="13">latency angel</text>
+</svg>

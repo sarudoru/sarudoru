@@ -1,0 +1,14 @@
+<svg width="280" height="320" viewBox="0 0 280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="shader witch anime girl">
+  <rect width="280" height="320" rx="18" fill="#0f1c2a"/>
+  <path d="M63 75L150 18L224 92L63 75Z" fill="#21142f" stroke="#8ad7ff" stroke-opacity=".5" stroke-width="3"/>
+  <path d="M92 74L159 38L205 86L92 74Z" fill="#ff8ab3" fill-opacity=".28"/>
+  <circle cx="143" cy="109" r="54" fill="#ffe0eb"/>
+  <path d="M84 111C92 69 121 48 154 52C184 56 205 79 210 116C176 97 120 94 84 111Z" fill="#2b1742"/>
+  <circle cx="122" cy="117" r="6" fill="#1d2b3d"/>
+  <circle cx="164" cy="117" r="6" fill="#1d2b3d"/>
+  <path d="M128 139C139 147 151 146 161 139" stroke="#d8527d" stroke-width="4" stroke-linecap="round"/>
+  <path d="M72 194C93 164 122 154 145 154C176 154 202 170 216 199C199 242 89 242 72 194Z" fill="#171224"/>
+  <path d="M101 191C116 214 170 215 188 190" stroke="#8ad7ff" stroke-width="7" stroke-linecap="round"/>
+  <path d="M224 156L239 166L222 174L214 192L204 173L185 164L205 155L214 136L224 156Z" fill="#fff1a8"/>
+  <text x="140" y="292" text-anchor="middle" fill="#fff7ff" font-family="JetBrains Mono, Menlo, monospace" font-size="13">render witch</text>
+</svg>

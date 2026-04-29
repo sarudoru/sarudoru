@@ -1,0 +1,21 @@
+<svg width="430" height="420" viewBox="0 0 430 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="anime console operator">
+  <rect width="430" height="420" rx="24" fill="#110d1e"/>
+  <path d="M35 326C91 246 144 342 207 272C263 210 322 268 394 194" stroke="#8ad7ff" stroke-width="3" stroke-dasharray="7 10" opacity=".55"/>
+  <rect x="36" y="40" width="358" height="124" rx="16" fill="#0a0915" stroke="#ffffff" stroke-opacity=".12"/>
+  <text x="58" y="78" fill="#ff8ab3" font-family="JetBrains Mono, Menlo, monospace" font-size="15">$ pnpm dev --turbo</text>
+  <text x="58" y="108" fill="#d7f8ff" font-family="JetBrains Mono, Menlo, monospace" font-size="13">avatar connected</text>
+  <text x="58" y="134" fill="#d7f8ff" font-family="JetBrains Mono, Menlo, monospace" font-size="13">face bus: stable</text>
+  <g transform="translate(102 168)">
+    <path d="M88 26C127 18 168 42 175 91C184 152 143 193 89 190C39 187 9 150 18 96C24 59 51 33 88 26Z" fill="#241438"/>
+    <path d="M54 96C37 103 26 125 28 153C31 198 61 232 105 232C151 232 181 198 181 153C181 124 168 103 148 96C124 111 80 111 54 96Z" fill="#ffd7e7"/>
+    <path d="M50 78C55 38 84 12 121 16C154 20 178 47 181 86C152 70 89 65 50 78Z" fill="#f06a7b"/>
+    <path d="M43 88C59 69 91 60 125 62C152 64 177 75 191 95C184 50 155 22 118 20C78 18 47 47 43 88Z" fill="#6f3ed4"/>
+    <circle cx="82" cy="118" r="7" fill="#21142f"/>
+    <circle cx="137" cy="118" r="7" fill="#21142f"/>
+    <path d="M96 145C107 152 124 152 136 144" stroke="#d8527d" stroke-width="4" stroke-linecap="round"/>
+    <path d="M52 191C25 207 10 235 8 270H208C206 234 189 207 158 190C133 210 80 211 52 191Z" fill="#171224"/>
+    <path d="M54 197L102 265L159 197" stroke="#8ad7ff" stroke-width="9" stroke-linecap="round"/>
+  </g>
+  <rect x="54" y="356" width="322" height="36" rx="18" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".1"/>
+  <text x="215" y="379" text-anchor="middle" fill="#fff7ff" font-family="JetBrains Mono, Menlo, monospace" font-size="13">console operator: online</text>
+</svg>

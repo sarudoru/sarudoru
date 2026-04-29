@@ -1,0 +1,14 @@
+<svg width="280" height="320" viewBox="0 0 280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="motion generation anime girl">
+  <rect width="280" height="320" rx="18" fill="#160f24"/>
+  <path d="M34 248C79 157 129 269 177 185C204 137 231 118 256 102" stroke="#ff8ab3" stroke-width="3" stroke-dasharray="6 9" opacity=".7"/>
+  <circle cx="140" cy="86" r="54" fill="#ffd7e7"/>
+  <path d="M82 90C88 42 119 22 148 24C185 26 207 55 206 100C174 78 118 73 82 90Z" fill="#7c3aed"/>
+  <circle cx="119" cy="94" r="6" fill="#251632"/>
+  <circle cx="161" cy="94" r="6" fill="#251632"/>
+  <path d="M126 118C136 125 148 125 158 118" stroke="#d8527d" stroke-width="4" stroke-linecap="round"/>
+  <path d="M74 167C91 141 119 132 140 132C167 132 194 146 207 173C195 224 91 225 74 167Z" fill="#251632"/>
+  <path d="M95 170L140 246L188 170" stroke="#8ad7ff" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="52" cy="57" r="6" fill="#fff1a8"/>
+  <circle cx="231" cy="232" r="5" fill="#8ad7ff"/>
+  <text x="140" y="292" text-anchor="middle" fill="#fff7ff" font-family="JetBrains Mono, Menlo, monospace" font-size="13">gesture sampler</text>
+</svg>
